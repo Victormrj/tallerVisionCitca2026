@@ -1,0 +1,9 @@
+README.md
+.venv/
+__pycache__/
+.pytest_cache/
+modelos/
+senas/datos/
+*.joblib
+*.task
+record*.json
